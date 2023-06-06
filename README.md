@@ -2,12 +2,12 @@
 
 ## Education
 
-1. **2019 年 - 2024：** 
+1. **2019.9 - 2024.6：** 
       * UCAS 
       * Signal and Information Processing
       * Doctor 
       
-2. **2015 - 2019 年：**
+2. **2015.9 - 2019.6：**
       * Anhui University 
       * Communication Engineering 
       * Bachelor
