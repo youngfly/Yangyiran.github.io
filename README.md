@@ -1,7 +1,6 @@
 # Yang Yiran Main Page
 
 ## Education
-
 1. **2019.9 - 2024.6：** 
       * UCAS 
       * Signal and Information Processing
@@ -25,7 +24,6 @@
 3. Kaiwen Wei\*, **Yiran Yang\***, et al. Guide the Many-to-One Assignment : Open Information Extraction via IoU-aware Optimal Transport. **Equal Contribuation, ACL 2023（CCF A）** 
 
 ### Cooperation
-
 1. Revealing influencing factors on global waste distribution via deep learning based garbage dump detection from satellite imagery. **Nature Communication (SCI 1 区 Top，IF 17.694)** [[paper]](https://www.nature.com/articles/s41467-023-37136-1)
 2. GAL : Graph-Induced Adaptive Learning for Weakly Superised 3D Obiect Detection. **IEEE Transactions on Intelligent Transportation Systems  (SCI 1区Top，IF 9.551，CCF B)** [[paper]](https://ieeexplore.ieee.org/document/10102360)
 3. Category Correlation and Adaptive Knowledge Distillation for Compact Cloud Detection in Remote Sensing Images. **IEEE Transactions on Geoscience and Remote Sensing (SCI 1区Top, IF 8.125, CCF B)** [[paper]](https://ieeexplore.ieee.org/document/9774409)
