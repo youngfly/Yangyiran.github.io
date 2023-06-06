@@ -2,11 +2,15 @@
 
 ## Education
 
-1. **2019 年 - 至今：** 
-      * UCAS 信号与信息处理 博士在读 
+1. **2019 年 - 2024：** 
+      * UCAS 
+      * Signal and Information Processing
+      * Doctor 
       
 2. **2015 - 2019 年：**
-      * Anhui University Communication Engineering Bachelor degree
+      * Anhui University 
+      * Communication Engineering 
+      * Bachelor
 
 ## Research
 
