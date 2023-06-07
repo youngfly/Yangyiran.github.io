@@ -20,7 +20,7 @@
 
 ### Conference
 1. **Yiran Yang**, et al, (2018). A resource allocation method based on the core server in the collaborative space for mobile edge computing.  **IEEE/CIC ICCC 2018**. [[paper]](https://ieeexplore.ieee.org/document/8641218/)
-2. Dongshuo Yin\*, **Yiran Yang\***, et al. 1% VS 100% : Parameter-Efficient Low Rank Adapter for Dense Predictions. **Equal Contribuation, IEEE CVPR 2023（CCF A）** 
+2. Dongshuo Yin\*, **Yiran Yang\***, et al. 1% VS 100% : Parameter-Efficient Low Rank Adapter for Dense Predictions. **Equal Contribuation, IEEE CVPR 2023（CCF A）**. [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yin_1_VS_100_Parameter-Efficient_Low_Rank_Adapter_for_Dense_Predictions_CVPR_2023_paper.pdf) 
 3. Kaiwen Wei\*, **Yiran Yang\***, et al. Guide the Many-to-One Assignment : Open Information Extraction via IoU-aware Optimal Transport. **Equal Contribuation, ACL 2023（CCF A）** 
 
 ### Cooperation
